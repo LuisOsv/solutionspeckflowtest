@@ -1,0 +1,9 @@
+C:\Users\LuisOsv\source\repos\SolutionSpecFlowTest\GameCore\bin\Debug\GameCore.exe.config
+C:\Users\LuisOsv\source\repos\SolutionSpecFlowTest\GameCore\bin\Debug\GameCore.exe
+C:\Users\LuisOsv\source\repos\SolutionSpecFlowTest\GameCore\bin\Debug\GameCore.pdb
+C:\Users\LuisOsv\source\repos\SolutionSpecFlowTest\GameCore\obj\Debug\GameCore.csprojResolveAssemblyReference.cache
+C:\Users\LuisOsv\source\repos\SolutionSpecFlowTest\GameCore\obj\Debug\GameCore.Properties.Resources.resources
+C:\Users\LuisOsv\source\repos\SolutionSpecFlowTest\GameCore\obj\Debug\GameCore.csproj.GenerateResource.Cache
+C:\Users\LuisOsv\source\repos\SolutionSpecFlowTest\GameCore\obj\Debug\GameCore.csproj.CoreCompileInputs.cache
+C:\Users\LuisOsv\source\repos\SolutionSpecFlowTest\GameCore\obj\Debug\GameCore.exe
+C:\Users\LuisOsv\source\repos\SolutionSpecFlowTest\GameCore\obj\Debug\GameCore.pdb
